@@ -13,42 +13,27 @@
 
 ### About me
 
-I'm a student who builds things for the web, and I care most about how they *feel*. Clear type, honest numbers, motion that explains instead of decorates, and the small details that make a page feel considered.
+I'm a student who builds things for the web, and I care most about how they *feel*: clear type, honest numbers, motion that explains instead of decorates.
+
+I also love designing things you can hold. I model parts in CAD, test them with simulation and CFD, wire up ESP32 and Arduino projects, and 3D print the results. Away from the desk I'm out with a camera, travelling, then editing the photos and videos afterwards.
 
 - **Design first.** I sketch the experience before the code: layout, typography, spacing and motion.
-- **Build end to end.** From the database and API to the last hover state and the email that lands in your inbox.
-- **Ship, then sharpen.** Version by version, from real feedback, until it feels right.
-- **Ask me about** web design, UI and turning messy data into calm dashboards.
+- **Build end to end.** From the database and API to the last hover state.
+- **Ship, then sharpen.** Version by version, from real feedback.
 
 <img src="assets/divider.svg" width="100%" alt="">
 
 ### Now building
 
 <a href="https://ifanshmy.github.io/tradedesk/">
-  <img src="assets/building.svg" width="100%" alt="Now building TradeDesk: a calm, private trading journal. Drop in a broker statement, it checks the maths and updates your dashboard.">
+  <img src="assets/building.svg" width="100%" alt="Now building TradeDesk: a calm, private trading journal. Drop in a broker statement; it checks the maths, then updates your dashboard.">
 </a>
-
-**[TradeDesk](https://ifanshmy.github.io/tradedesk/)** reads monthly statements from Moomoo, Mplus and Webull (even password-protected PDFs), verifies every figure before saving, and turns them into a dashboard of NAV, performance, dividends and goals.
-
-<table>
-  <tr>
-    <td width="33%" valign="top"><b>Checked before it counts</b><br><sub>Every upload is simulated with the real maths and shown as before → after.</sub></td>
-    <td width="33%" valign="top"><b>Private by design</b><br><sub>Encrypted statement data, attempt limits, a security log, no PDFs stored.</sub></td>
-    <td width="33%" valign="top"><b>Made to feel good</b><br><sub>Seven colour themes, light and dark, a magnetic cursor and a reduce-motion switch.</sub></td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://ifanshmy.github.io/tradedesk/"><img src="https://raw.githubusercontent.com/ifanshmy/tradedesk/main/docs/readme/hero-v2.jpg" width="100%" alt="TradeDesk dashboard in light and dark mode"></a>
-</p>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-### Tools I build with
+### Toolkit
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,python,fastapi,postgres,githubactions&theme=dark&perline=12" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Three.js, Python, FastAPI, PostgreSQL, GitHub Actions">
-</p>
+<img src="assets/toolkit.svg" width="100%" alt="Web and software: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Three.js, Python, FastAPI, PostgreSQL, GitHub Actions. Design and engineering: CATIA, Fusion 360, Inventor, ANSYS, CFD. Electronics and making: ESP32, Arduino, 3D printing. Photo and video: Lightroom Classic, Photoshop, Illustrator, DaVinci Resolve. Off the screen: photography, travel, editing, designing.">
 
 <img src="assets/divider.svg" width="100%" alt="">
 
