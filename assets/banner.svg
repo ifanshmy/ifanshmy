@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Irfan Syahmi — student and builder">
+<style>
+  .bg-glow { animation: glow 7s ease-in-out infinite alternate; transform-origin: 980px 40px; }
+  @keyframes glow { from { opacity: .55; transform: scale(1); } to { opacity: 1; transform: scale(1.12); } }
+  .dots { animation: drift 18s linear infinite; }
+  @keyframes drift { from { transform: translate(0, 0); } to { transform: translate(-26px, -26px); } }
+  .name { font: 800 64px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; letter-spacing: -2px; fill: #fff; }
+  .name tspan { fill: #ff5b2e; }
+  .hi { font: 700 18px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #ff5b2e; letter-spacing: 3px; }
+  .typed { font: 500 26px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #c9ced8; }
+  .prompt { font: 700 26px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #ff5b2e; }
+  .caret { fill: #ff5b2e; animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .in { opacity: 0; animation: rise .9s cubic-bezier(.2,.8,.2,1) forwards; }
+  .d1 { animation-delay: .1s; } .d2 { animation-delay: .35s; } .d3 { animation-delay: .6s; }
+  @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+  .spark { stroke-dasharray: 900; stroke-dashoffset: 900; animation: draw 3.2s .8s cubic-bezier(.4,0,.2,1) forwards; }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  .live { animation: pulse 1.6s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+  @keyframes pulse { 0% { opacity: .9; transform: scale(1); } 100% { opacity: 0; transform: scale(3); } }
+
+  #c0 { animation: t0 16.0s infinite; }
+  @keyframes t0 {
+    0% { width: 0; }
+    0.00% { width: 0; animation-timing-function: steps(17, end); }
+    10.50% { width: 269px; }
+    20.00% { width: 269px; animation-timing-function: steps(17, end); }
+    24.50% { width: 0; }
+    100% { width: 0; }
+  }
+  #k0 { animation: m0 16.0s infinite, v0 16.0s steps(1, end) infinite; opacity: 0; }
+  @keyframes m0 {
+    0% { transform: translateX(0); }
+    0.00% { transform: translateX(0); animation-timing-function: steps(17, end); }
+    10.50% { transform: translateX(265.2px); }
+    20.00% { transform: translateX(265.2px); animation-timing-function: steps(17, end); }
+    24.50% { transform: translateX(0); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes v0 {
+    0% { opacity: 0; }
+    0.00% { opacity: 1; }
+    24.50% { opacity: 0; }
+    100% { opacity: 0; }
+  }
+  #c1 { animation: t1 16.0s infinite; }
+  @keyframes t1 {
+    0% { width: 0; }
+    25.00% { width: 0; animation-timing-function: steps(30, end); }
+    35.50% { width: 472px; }
+    45.00% { width: 472px; animation-timing-function: steps(30, end); }
+    49.50% { width: 0; }
+    100% { width: 0; }
+  }
+  #k1 { animation: m1 16.0s infinite, v1 16.0s steps(1, end) infinite; opacity: 0; }
+  @keyframes m1 {
+    0% { transform: translateX(0); }
+    25.00% { transform: translateX(0); animation-timing-function: steps(30, end); }
+    35.50% { transform: translateX(468.0px); }
+    45.00% { transform: translateX(468.0px); animation-timing-function: steps(30, end); }
+    49.50% { transform: translateX(0); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes v1 {
+    0% { opacity: 0; }
+    25.00% { opacity: 1; }
+    49.50% { opacity: 0; }
+    100% { opacity: 0; }
+  }
+  #c2 { animation: t2 16.0s infinite; }
+  @keyframes t2 {
+    0% { width: 0; }
+    50.00% { width: 0; animation-timing-function: steps(28, end); }
+    60.50% { width: 441px; }
+    70.00% { width: 441px; animation-timing-function: steps(28, end); }
+    74.50% { width: 0; }
+    100% { width: 0; }
+  }
+  #k2 { animation: m2 16.0s infinite, v2 16.0s steps(1, end) infinite; opacity: 0; }
+  @keyframes m2 {
+    0% { transform: translateX(0); }
+    50.00% { transform: translateX(0); animation-timing-function: steps(28, end); }
+    60.50% { transform: translateX(436.8px); }
+    70.00% { transform: translateX(436.8px); animation-timing-function: steps(28, end); }
+    74.50% { transform: translateX(0); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes v2 {
+    0% { opacity: 0; }
+    50.00% { opacity: 1; }
+    74.50% { opacity: 0; }
+    100% { opacity: 0; }
+  }
+  #c3 { animation: t3 16.0s infinite; }
+  @keyframes t3 {
+    0% { width: 0; }
+    75.00% { width: 0; animation-timing-function: steps(17, end); }
+    85.50% { width: 269px; }
+    95.00% { width: 269px; animation-timing-function: steps(17, end); }
+    99.50% { width: 0; }
+    100% { width: 0; }
+  }
+  #k3 { animation: m3 16.0s infinite, v3 16.0s steps(1, end) infinite; opacity: 0; }
+  @keyframes m3 {
+    0% { transform: translateX(0); }
+    75.00% { transform: translateX(0); animation-timing-function: steps(17, end); }
+    85.50% { transform: translateX(265.2px); }
+    95.00% { transform: translateX(265.2px); animation-timing-function: steps(17, end); }
+    99.50% { transform: translateX(0); }
+    100% { transform: translateX(0); }
+  }
+  @keyframes v3 {
+    0% { opacity: 0; }
+    75.00% { opacity: 1; }
+    99.50% { opacity: 0; }
+    100% { opacity: 0; }
+  }</style>
+<defs>
+  <pattern id="dot" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#fff" fill-opacity=".09"/></pattern>
+  <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 40) scale(520 300)">
+    <stop offset="0" stop-color="#ff5b2e" stop-opacity=".42"/><stop offset="1" stop-color="#ff5b2e" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(80 300) scale(420 220)">
+    <stop offset="0" stop-color="#2f7bff" stop-opacity=".16"/><stop offset="1" stop-color="#2f7bff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="sg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff5b2e" stop-opacity="0"/><stop offset=".35" stop-color="#ff5b2e"/><stop offset="1" stop-color="#ffb199"/></linearGradient>
+  <clipPath id="cl0"><rect id="c0" x="98" y="196" height="40" width="0"/></clipPath><clipPath id="cl1"><rect id="c1" x="98" y="196" height="40" width="0"/></clipPath><clipPath id="cl2"><rect id="c2" x="98" y="196" height="40" width="0"/></clipPath><clipPath id="cl3"><rect id="c3" x="98" y="196" height="40" width="0"/></clipPath>
+</defs>
+<rect width="1200" height="300" rx="22" fill="#0d0f12"/>
+<g class="dots"><rect x="0" y="0" width="1240" height="340" fill="url(#dot)"/></g>
+<rect class="bg-glow" width="1200" height="300" fill="url(#g1)"/>
+<rect width="1200" height="300" fill="url(#g2)"/>
+<g class="in d1"><text class="hi" x="100" y="84">HI THERE, I'M</text></g>
+<g class="in d2"><text class="name" x="96" y="156">Irfan Syahmi<tspan>.</tspan></text></g>
+<g class="in d3">
+  <text class="prompt" x="68" y="226">›</text>
+  <text class="typed" x="100" y="226" textLength="265.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#cl0)">student &amp; builder</text><text class="typed" x="100" y="226" textLength="468.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#cl1)">I design calm, useful web apps</text><text class="typed" x="100" y="226" textLength="436.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#cl2)">currently building TradeDesk</text><text class="typed" x="100" y="226" textLength="265.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#cl3)">based in Malaysia</text>
+  <g id="k0"><rect class="caret" x="101" y="203" width="13" height="28" rx="2"/></g><g id="k1"><rect class="caret" x="101" y="203" width="13" height="28" rx="2"/></g><g id="k2"><rect class="caret" x="101" y="203" width="13" height="28" rx="2"/></g><g id="k3"><rect class="caret" x="101" y="203" width="13" height="28" rx="2"/></g>
+</g>
+</svg>
