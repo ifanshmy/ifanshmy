@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Irfan Syahmi — student and builder">
 <style>
-  .bg-glow { animation: glow 7s ease-in-out infinite alternate; transform-origin: 980px 40px; }
+  .bg-glow { animation: glow 7s ease-in-out infinite alternate; transform-origin: 930px 330px; }
   @keyframes glow { from { opacity: .55; transform: scale(1); } to { opacity: 1; transform: scale(1.12); } }
   .dots { animation: drift 18s linear infinite; }
   @keyframes drift { from { transform: translate(0, 0); } to { transform: translate(-26px, -26px); } }
   .name { font: 800 64px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; letter-spacing: -2px; fill: #fff; }
-  .name tspan { fill: #ff847c; }
-  .hi { font: 700 18px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #ff847c; letter-spacing: 3px; }
-  .typed { font: 500 26px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #dfe4e8; }
-  .prompt { font: 700 26px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #ff847c; }
-  .caret { fill: #ff847c; animation: blink 1s steps(1) infinite; }
+  .name tspan { fill: #c4b5fd; }
+  .hi { font: 700 18px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #c4b5fd; letter-spacing: 3px; }
+  .typed { font: 500 26px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #d9d6e6; }
+  .prompt { font: 700 26px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #c4b5fd; }
+  .caret { fill: #c4b5fd; animation: blink 1s steps(1) infinite; }
   @keyframes blink { 50% { opacity: 0; } }
   .in { opacity: 0; animation: rise .9s cubic-bezier(.2,.8,.2,1) forwards; }
   .d1 { animation-delay: .1s; } .d2 { animation-delay: .35s; } .d3 { animation-delay: .6s; }
@@ -114,20 +114,20 @@
     75.00% { opacity: 1; }
     99.50% { opacity: 0; }
     100% { opacity: 0; }
-  }</style>
-<defs>
-  <pattern id="dot" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#fff" fill-opacity=".09"/></pattern>
-  <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 40) scale(520 300)">
-    <stop offset="0" stop-color="#e84a5f" stop-opacity=".5"/><stop offset=".5" stop-color="#ff847c" stop-opacity=".16"/><stop offset="1" stop-color="#fecea8" stop-opacity="0"/></radialGradient>
-  <radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(80 300) scale(420 220)">
-    <stop offset="0" stop-color="#99b898" stop-opacity=".42"/><stop offset="1" stop-color="#99b898" stop-opacity="0"/></radialGradient>
+  }.mist { animation: breathe 9s ease-in-out infinite alternate; transform-origin: 560px 350px; } @keyframes breathe { from { opacity: .75; transform: scale(1); } to { opacity: 1; transform: scale(1.08); } }</style>
+<defs><clipPath id="card"><rect width="1200" height="300" rx="22"/></clipPath><radialGradient id="g3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(610 325) scale(430 165)"><stop offset="0" stop-color="#f1e9ff" stop-opacity=".95"/><stop offset=".55" stop-color="#b9a3ff" stop-opacity=".25"/><stop offset="1" stop-color="#b9a3ff" stop-opacity="0"/></radialGradient>
+  <pattern id="dot" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#fff" fill-opacity=".06"/></pattern>
+  <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 330) scale(560 240)">
+    <stop offset="0" stop-color="#b9a3ff" stop-opacity=".85"/><stop offset=".45" stop-color="#4b3fd0" stop-opacity=".7"/><stop offset="1" stop-color="#4b3fd0" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(80 330) scale(420 200)">
+    <stop offset="0" stop-color="#eef59a" stop-opacity=".9"/><stop offset=".5" stop-color="#eef59a" stop-opacity=".28"/><stop offset="1" stop-color="#eef59a" stop-opacity="0"/></radialGradient>
   
   <clipPath id="cl0"><rect id="c0" x="98" y="196" height="40" width="0"/></clipPath><clipPath id="cl1"><rect id="c1" x="98" y="196" height="40" width="0"/></clipPath><clipPath id="cl2"><rect id="c2" x="98" y="196" height="40" width="0"/></clipPath><clipPath id="cl3"><rect id="c3" x="98" y="196" height="40" width="0"/></clipPath>
 </defs>
-<rect width="1200" height="300" rx="22" fill="#2a363b"/>
-<g class="dots"><rect x="0" y="0" width="1240" height="340" fill="url(#dot)"/></g>
+<rect width="1200" height="300" rx="22" fill="#0b0b0e"/>
+<g clip-path="url(#card)"><g class="dots"><rect x="0" y="0" width="1240" height="340" fill="url(#dot)"/></g>
 <rect class="bg-glow" width="1200" height="300" fill="url(#g1)"/>
-<rect width="1200" height="300" fill="url(#g2)"/>
+<rect width="1200" height="300" fill="url(#g2)"/><rect class="mist" width="1200" height="300" fill="url(#g3)"/></g>
 <g class="in d1"><text class="hi" x="100" y="84">HI THERE, I'M</text></g>
 <g class="in d2"><text class="name" x="96" y="156">Irfan Syahmi<tspan>.</tspan></text></g>
 <g class="in d3">
