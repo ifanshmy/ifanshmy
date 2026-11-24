@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="944" viewBox="0 0 1200 944" role="img" aria-label="Toolkit: web and software, design and engineering (CATIA, Fusion 360, Inventor, ANSYS, CFD), electronics (ESP32, Arduino, 3D printing), photo and video (Lightroom Classic, Photoshop, Illustrator, DaVinci Resolve), and photography, travel, editing and designing">
 <style>
   .gt { font: 700 13px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; fill: #ff8a7a; letter-spacing: 2.5px; }
-  .gs { font: 400 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #ff8a7a; }
-  .nm { font: 600 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #ff8a7a; }
+  .gs { font: 400 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; }
+  .nm { font: 600 13px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; }
   .sb { font: 400 11px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #6b727e; }
   .tile { opacity: 0; animation: in .6s cubic-bezier(.2,.8,.2,1) forwards; }
   @keyframes in { from { opacity: 0; } to { opacity: 1; } }

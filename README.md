@@ -32,7 +32,7 @@ I also love designing things you can hold. I model parts in CAD, test them with 
 
 ### Toolkit
 
-<img src="assets/toolkit-g4.svg" width="100%" alt="Web and software: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Three.js, Python, FastAPI, PostgreSQL, GitHub Actions. Design and engineering: CATIA, Fusion 360, Inventor, ANSYS, CFD. Electronics and making: ESP32, Arduino, 3D printing. Photo and video: Lightroom Classic, Photoshop, Illustrator, DaVinci Resolve. Off the screen: photography, travel, editing, designing.">
+<img src="assets/toolkit-g5.svg" width="100%" alt="Web and software: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Three.js, Python, FastAPI, PostgreSQL, GitHub Actions. Design and engineering: CATIA, Fusion 360, Inventor, ANSYS, CFD. Electronics and making: ESP32, Arduino, 3D printing. Photo and video: Lightroom Classic, Photoshop, Illustrator, DaVinci Resolve. Off the screen: photography, travel, editing, designing.">
 
 <img src="assets/divider-g2.svg" width="100%" alt="">
 
