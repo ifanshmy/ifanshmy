@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/irfansyahminorazman"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=ff5b2e" alt="LinkedIn"></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=irfannorazaman@gmail.com&su=Hello%20Irfan"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=ff5b2e" alt="Email"></a>
   <a href="https://wa.me/60197881403"><img src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=ff5b2e" alt="WhatsApp"></a>
-  <a href="https://ifanshmy.github.io/tradedesk/"><img src="https://img.shields.io/badge/TradeDesk-live-ff5b2e?style=for-the-badge&labelColor=111111" alt="TradeDesk live"></a>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="">
@@ -26,7 +25,7 @@ I also love designing things you can hold. I model parts in CAD, test them with 
 ### Now building
 
 <a href="https://ifanshmy.github.io/tradedesk/">
-  <img src="assets/building.svg" width="100%" alt="Now building TradeDesk: a calm, private trading journal. Drop in a broker statement; it checks the maths, then updates your dashboard.">
+  <img src="assets/tradedesk-card.svg" width="100%" alt="Now building TradeDesk: a calm, private trading journal. Drop in a broker statement; it checks the maths, then updates your dashboard.">
 </a>
 
 <img src="assets/divider.svg" width="100%" alt="">
@@ -44,4 +43,4 @@ I also love designing things you can hold. I model parts in CAD, test them with 
   <img src="https://raw.githubusercontent.com/ifanshmy/ifanshmy/output/snake.svg" width="100%" alt="My GitHub contributions, eaten by a snake">
 </picture>
 
-<p align="center"><sub>Thanks for stopping by. Every trade, grounded. Every pixel, considered.</sub></p>
+<p align="center"><sub>Thanks for stopping by. Every pixel, considered.</sub></p>
