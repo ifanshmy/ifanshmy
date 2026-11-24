@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Hi there, I'm Irfan Syahmi. Student and builder, designing calm, useful web apps, currently building TradeDesk.">
+  <img src="assets/banner-tp.svg" width="100%" alt="Hi there, I'm Irfan Syahmi. Student and builder, designing calm, useful web apps, currently building TradeDesk.">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/irfansyahminorazman"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=ff5b2e" alt="LinkedIn"></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=irfannorazaman@gmail.com&su=Hello%20Irfan"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=ff5b2e" alt="Email"></a>
-  <a href="https://wa.me/60197881403"><img src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=ff5b2e" alt="WhatsApp"></a>
+  <a href="https://www.linkedin.com/in/irfansyahminorazman"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=2dd4bf" alt="LinkedIn"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=irfannorazaman@gmail.com&su=Hello%20Irfan"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=2dd4bf" alt="Email"></a>
+  <a href="https://wa.me/60197881403"><img src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=2dd4bf" alt="WhatsApp"></a>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="assets/divider-tp.svg" width="100%" alt="">
 
 ### About me
 
@@ -20,7 +20,7 @@ I also love designing things you can hold. I model parts in CAD, test them with 
 - **Build end to end.** From the database and API to the last hover state.
 - **Ship, then sharpen.** Version by version, from real feedback.
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="assets/divider-tp.svg" width="100%" alt="">
 
 ### Now building
 
@@ -28,13 +28,13 @@ I also love designing things you can hold. I model parts in CAD, test them with 
   <img src="assets/tradedesk-card.svg" width="100%" alt="Now building TradeDesk: a calm, private trading journal. Drop in a broker statement; it checks the maths, then updates your dashboard.">
 </a>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="assets/divider-tp.svg" width="100%" alt="">
 
 ### Toolkit
 
-<img src="assets/toolkit.svg" width="100%" alt="Web and software: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Three.js, Python, FastAPI, PostgreSQL, GitHub Actions. Design and engineering: CATIA, Fusion 360, Inventor, ANSYS, CFD. Electronics and making: ESP32, Arduino, 3D printing. Photo and video: Lightroom Classic, Photoshop, Illustrator, DaVinci Resolve. Off the screen: photography, travel, editing, designing.">
+<img src="assets/toolkit-tp.svg" width="100%" alt="Web and software: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Three.js, Python, FastAPI, PostgreSQL, GitHub Actions. Design and engineering: CATIA, Fusion 360, Inventor, ANSYS, CFD. Electronics and making: ESP32, Arduino, 3D printing. Photo and video: Lightroom Classic, Photoshop, Illustrator, DaVinci Resolve. Off the screen: photography, travel, editing, designing.">
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="assets/divider-tp.svg" width="100%" alt="">
 
 ### Contributions
 
