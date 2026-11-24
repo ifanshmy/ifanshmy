@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/irfansyahminorazman"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=b868f5" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/irfansyahminorazman"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2I4NjhmNScgZD0nTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Jy8%2BPC9zdmc%2B" alt="LinkedIn"></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=irfannorazaman@gmail.com&su=Hello%20Irfan"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=b868f5" alt="Email"></a>
   <a href="https://wa.me/60197881403"><img src="https://img.shields.io/badge/WhatsApp-111111?style=for-the-badge&logo=whatsapp&logoColor=b868f5" alt="WhatsApp"></a>
 </p>
